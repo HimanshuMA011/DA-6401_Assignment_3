@@ -115,3 +115,6 @@ In order to test the best trained model on the test data set, a test script has 
 
 One can find colab notebooks which are self contained and they can be run on a GPU based runtime session and the results will be logged accordingly in the user entity's wandb account which alone needs to be changed in the notebook before beginning the run. 
 
+### With attention code can be used by putting True in Hyperparameter
+
+
